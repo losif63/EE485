@@ -2,7 +2,6 @@
 
 int main()
 {
-    printf("Jaduk Suh\n");
-    printf("hello world!\n");
+    printf("Jaduk Suh\nHello world!\n");
     return 0;
 }
